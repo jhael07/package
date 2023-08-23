@@ -30,7 +30,7 @@
     "semantic-release": "^21.0.9"
   },
   "publishConfig": {
-    "access": "restricted"
+    "access": "public"
   },
   "release": {
     "branches": [
